@@ -68,5 +68,5 @@ This project is open-source and available for modification and use.
 
 ---
 **Author**: [Harshvardhan Dhane]  
-**GitHub Repository**: [Your Repo Link]
+**GitHub Repository**: [https://github.com/harshdhane25/Educational-Resource-Management-System.git]
 
