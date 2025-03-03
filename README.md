@@ -1,5 +1,4 @@
 # Educational-Resource-Management-System
-# Educational Resource Management System
 
 ## Project Overview
 The **Educational Resource Management System** is a web-based platform designed to manage educational resources such as textbooks, digital materials, and library collections. It enables administrators to add and manage resources, while students can browse and download available materials.
